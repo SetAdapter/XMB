@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- UI设计原色之 红色 -->
+    <color name="red">#e84c3d</color>
+    <!-- UI设计原色之 粉色 -->
+    <color name="pink">#EF8994</color>
+    <!-- UI设计原色之 橙色 -->
+    <color name="orange">#f39b39</color>
+    <!-- UI设计原色之 绿色 -->
+    <color name="green">#93cc2f</color>
+    <!-- UI设计原色之 浅蓝 -->
+    <color name="lblue">#7ec4f5</color>
+    <!-- UI设计原色之 深蓝 -->
+    <color name="blue">#3ec2d9</color>
+    <!-- UI设计原色之 白色 -->
+    <color name="white">#ffffff</color>
+    <!-- UI设计原色之 黑色 -->
+    <color name="black">#000000</color>
+    <!-- 透明 -->
+    <color name="transparent">#00000000</color>
+
+
+
+    <!-- 状态栏颜色 -->
+    <color name="statusBar">#25b6ed</color>
+    <!-- 标题栏颜色 -->
+    <color name="appHeadBg">#25b6ed</color>
+    <!-- 界面背景色 -->
+    <color name="BgColor">#eeeeee</color>
+    <!-- 分割线颜色 -->
+    <color name="lineColor">#d6d6d6</color>
+
+    <!-- 标题栏内容颜色 -->
+    <color name="titleBarCon">#fefefe</color>
+    <!-- 界面字体颜色 深色-->
+    <color name="txtSuperColor">#333333</color>
+    <!-- 界面字体颜色 浅色-->
+    <color name="txtSecondColor">#666666</color>
+    <!-- 界面字体颜色 超浅色-->
+    <color name="txtLight">#999999</color>
+    <!-- 界面字体颜色 高亮 -->
+    <color name="txtHighlight">#24b6ec</color>
+
+    <!-- 界面提示字体颜色 输入正确 -->
+    <color name="colorTextCorrect">#24b6ec</color>
+    <!-- 界面提示字体颜色 输入错误 -->
+    <color name="colorHintError">#fe8382</color>
+
+
+    <!-- 统一按钮背景色  -->
+    <color name="button_normal">#bfbfbf</color>
+    <!-- 统一按钮点击效果色 -->
+    <color name="button_pressed">#41c0ef</color>
+
+    <color name="button_normal2">#FFFAF0</color>
+    <color name="button_pressed2">#cccccc</color>
+
+    <!-- 点击  背景变化 颜色 -->
+    <color name="selection">#ffffff</color>
+
+
+
+    <!-- 下拉刷新 背景色 -->
+    <color name="transforTop">#333333</color>
+
+    <!-- shape 描边颜色-->
+    <color name="shape_stroke">#f1f1f1</color>
+    <!-- shape 填充颜色-->
+    <color name="shape_solid">#f1f1f1</color>
+    <!-- shape 菜单dialog 默认背景色 -->
+    <color name="shape_dialog_menu_default">#f7f7f7</color>
+    <!-- shape 菜单dialog 点击背景变化色 -->
+    <color name="shape_dialog_menu_selection">#cacaca</color>
+
+
+</resources>
+
+        <!-- 颜色透明度 对比表 -->
+        <!--百分比-开头字母-->
+        <!--100% —FF-->
+        <!--95% — F2-->
+        <!--90% — E6-->
+        <!--85% — D9-->
+        <!--80% — CC-->
+        <!--75% — BF-->
+        <!--70% — B3-->
+        <!--65% — A6-->
+        <!--60% — 99-->
+        <!--55% — 8C-->
+        <!--50% — 80-->
+        <!--45% — 73-->
+        <!--40% — 66-->
+        <!--35% — 59-->
+        <!--30% — 4D-->
+        <!--25% — 40-->
+        <!--20% — 33-->
+        <!--15% — 26-->
+        <!--10% — 1A-->
+        <!--5% — 0D-->
+        <!--0% — 00-->

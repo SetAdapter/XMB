@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">物流園</string>
+
+    <string name="mainTabOne">首页</string>
+    <string name="mainTabTwo">购物车</string>
+    <string name="mainTabThree">我的订单</string>
+
+    <array name="textArray">
+        <item>[经典款] BRITA 碧然德 Marella系列滤水壶3.5升</item>
+        <item>BRITA 碧然德净水壶Maxtra 第二代双效滤芯全年12只装</item>
+        <item>BRITA 碧然德Marella系列滤 水壶3.5L 紫色(1壶1芯)</item>
+        <item>[1壶1芯] BRITA 碧然德 Elemaris系列滤水壶3.5升</item>
+        <item>[品牌直采] [1壶1芯] BRITA 碧然德ALUNA摩登</item>
+        <item>[1壶1芯] BRITA 碧然德 ALUNA摩登系列滤水壶3.5</item>
+    </array>
+    <string name="complete">完成</string>
+    <string name="delete">删除</string>
+
+</resources>
